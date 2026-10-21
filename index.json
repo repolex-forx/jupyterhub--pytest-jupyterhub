@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "pytest-jupyterhub",
+  "versions": [
+    {
+      "commit": "0bc90cdd06c01c2a63ae56e36878ea25ce7642fd",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:11:26.304893+00:00"
+    }
+  ]
+}
