@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/pytest-jupyterhub/commit/0bc90cdd06c01c2a63ae56e36878ea25ce7642fd",
       "git:hexsha": "0bc90cdd06c01c2a63ae56e36878ea25ce7642fd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T22:11:26.299669+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/pytest-jupyterhub/commit/967bf7c7c47b15a128d5c7ab46fb0d16a88909f4",
